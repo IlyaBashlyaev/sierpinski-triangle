@@ -10,6 +10,6 @@ body {
 }
 
 canvas {
-    height: 100vw;
+    height: 87.5vw;
     max-height: 720px;
 }
